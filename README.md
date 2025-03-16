@@ -17,7 +17,7 @@ I am currently looking for **Software Development Engineer (SDE) roles** and **F
 - **Frameworks/Libraries:** React.js, Tailwind CSS, Material UI, Framer Motion    
 - **Other Tools:** Figma, Adobe XD  
 
-### 💻 Programming & Backend  
+### 💻 Programming   
 - **Languages:** C, C++, Python  
 - **Databases:** SQL (MySQL)    
 - **Version Control:** Git, GitHub  
