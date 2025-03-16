@@ -33,10 +33,10 @@ I am currently looking for **Software Development Engineer (SDE) roles** and **F
 | Project Name | Tech Stack | Live Demo |
 |-------------|-----------|-----------|
 | 💻**CodePen Clone** | React.js, HTML, CSS, JavaScript | [Live](https://codepen-clone-weld.vercel.app/) |
-| 🍕**Zomato UI Clone** | React.js, HTML, CSS, JavaScript | [Live](https://zomato-clone-wheat-five.vercel.app/) |
-| 🍕**Pizza Website** | HTML, CSS, JavaScript | [Live](https://pizza-website-peach.vercel.app/) |
+| 🍕**Zomato UI Clone** | HTML, CSS, JavaScript | [Live](https://zomato-clone-wheat-five.vercel.app/) |
+| 🍕**Pizza Website** | HTML, CSS, JavaScript, Swiper.js  | [Live](https://pizza-website-peach.vercel.app/) |
 | 🧑‍💼**Personal Portfolio** | React.js, Framer Motion, MUI | [Live](https://react-portfolio-rohan-thakur.vercel.app/) |
-| 🐾**Save Animals Website** | React.js, Tailwind CSS | [Live](https://save-animals-project.vercel.app/) |
+| 🐾**Save Animals Website** | HTML, CSS | [Live](https://save-animals-project.vercel.app/) |
 | ☕**Coffee Website**  | HTML, CSS, JavaScript, Swiper.js | [Live](https://coffee-website-jvloqrryw-rohan-thakurs-projects-b808fdf8.vercel.app/) |
 
 ---
