@@ -1,66 +1,62 @@
-# 👋 Hi, I'm Rohan Thakur!  
-🎯 A passionate **Frontend Developer** | Problem Solver | Tech Enthusiast  
+# 👋 Hi, I'm Rohan Thakur  
+
+🚀 Passionate **Software Developer** and **Frontend Engineer** with a strong foundation in **Data Structures & Algorithms, Web Development, and Machine Learning**. I love solving problems, building modern web applications, and continuously learning new technologies.  
 
 ---
 
-## 🚀 About Me
+## 💼 Looking for Opportunities  
 
-- 🧑‍💻 **Electronics and Communication Engineering (ECE)** undergraduate.  
-- 💻 Passionate about **Frontend Development**, **Data Structures & Algorithms (DSA)**, and **Machine Learning**.  
-- 🔍 Constantly exploring and building projects that improve people's lives.  
-- 🏆 Participated in various hackathons and coding challenges.  
+I am currently looking for **Software Development Engineer (SDE) roles** and **Frontend Developer roles**, where I can contribute my skills and grow as a developer.  
 
 ---
 
-## 🛠️ Skills
+## 🚀 Tech Stack  
 
-- **Frontend Development:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Framer Motion, Material UI  
-- **Programming Languages:** C, C++, Python  
-- **Data Science & Machine Learning:** Python Libraries (PyTorch, Scikit-learn)  
-- **Databases:** SQL  
-- **Other Skills:** Ethical Hacking, Cybersecurity  
+### 🌐 Frontend Development  
+- **Languages:** HTML, CSS, JavaScript (ES6+)  
+- **Frameworks/Libraries:** React.js, Tailwind CSS, Material UI, Framer Motion    
+- **Other Tools:** Figma, Adobe XD  
 
----
+### 💻 Programming & Backend  
+- **Languages:** C, C++, Python  
+- **Databases:** SQL (MySQL)    
+- **Version Control:** Git, GitHub  
 
-## 💻 Projects
-
-Here are some of my recent projects:  
-
-| Project Name | Live Demo | Tech Stack |
-|--------------|-----------|------------|
-| 🐾 Save Animals | [Live Site](https://save-animals-project.vercel.app/) | HTML, CSS, JavaScript |
-| 🧑‍💼 Personal Portfolio | [Live Site](https://react-portfolio-rohan-thakur.vercel.app/) | React.js, Tailwind CSS, Framer Motion |
-| 🍕 Zomato Clone | [Live Site](https://zomato-clone-wheat-five.vercel.app/) | HTML, CSS, JavaScript |
-| 💻 CodePen Clone | [Live Site](https://codepen-clone-weld.vercel.app/) | React.js, HTML, CSS, JavaScript |
-| 🍕 Pizza Website | [Live Site](https://pizza-website-peach.vercel.app/) | HTML, CSS, JavaScript |
+### 🔬 Data Science & Machine Learning  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch  
+- **Machine Learning:** Supervised & Unsupervised Learning, Deep Learning Basics  
 
 ---
 
-## 🏫 Education
+## 📌 Projects  
 
-🎓 Pursuing **B.Tech in Electronics and Communication Engineering**  
-
----
-
-## 🌐 Connect with Me
-
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [Rohan Thakur](https://www.linkedin.com/in/rohanthakur8263/) |
-| 📘 LeetCode | [RohanThakur](https://leetcode.com/u/RohanThakur/) |
-| 🧑‍💻 Coding Ninjas | [Profile](https://www.naukri.com/code360/profile/tucker123) |
-| 📗 GeeksforGeeks | [Profile](https://www.geeksforgeeks.org/user/rt880meuv/) |
+| Project Name | Tech Stack | Live Demo |
+|-------------|-----------|-----------|
+| 💻**CodePen Clone** | React.js, HTML, CSS, JavaScript | [Live](https://codepen-clone-weld.vercel.app/) |
+| 🍕**Zomato UI Clone** | React.js, HTML, CSS, JavaScript | [Live](https://zomato-clone-wheat-five.vercel.app/) |
+| 🍕**Pizza Website** | HTML, CSS, JavaScript | [Live](https://pizza-website-peach.vercel.app/) |
+| 🧑‍💼**Personal Portfolio** | React.js, Framer Motion, MUI | [Live](https://react-portfolio-rohan-thakur.vercel.app/) |
+| 🐾**Save Animals Website** | React.js, Tailwind CSS | [Live](https://save-animals-project.vercel.app/) |
+| ☕**Coffee Website**  | HTML, CSS, JavaScript, Swiper.js | [Live](https://coffee-website-jvloqrryw-rohan-thakurs-projects-b808fdf8.vercel.app/) |
 
 ---
 
-## 🏆 Coding Stats
+## 🏆 Coding & Problem-Solving  
 
-- 🧩 **LeetCode:** 260+ problems solved  
-- 📚 **Coding Ninjas:** 100+ problems solved with 16 badges  
-- 📝 **GeeksforGeeks:** 40+ problems solved  
+- **LeetCode:** [Profile](https://leetcode.com/u/RohanThakur/) (260+ problems solved)  
+- **Coding Ninjas:** [Profile](https://www.naukri.com/code360/profile/tucker123) (100+ problems solved)  
+- **Geeks for Geeks:** [Profile](https://www.geeksforgeeks.org/user/rt880meuv/) (40+ problems solved)  
 
 ---
 
-## 📫 How to Reach Me
+## 📬 Connect with Me  
 
-Feel free to connect on **LinkedIn** or explore my projects above!  
+🔗 **Portfolio:** [Rohan Thakur](https://react-portfolio-rohan-thakur.vercel.app/)  
+💼 **LinkedIn:** [linkedin.com/in/rohanthakur8263](https://www.linkedin.com/in/rohanthakur8263/)  
+🐙 **GitHub:** [github.com/Rohanthakur-01](https://github.com/Rohanthakur-01)  
+📩 **Email:** rohanthakur8263@gmail.com  
+📞 **Contact:** 8800678263  
+
+---
+
+⭐ **If you like my work, feel free to star my repositories!** ⭐  
